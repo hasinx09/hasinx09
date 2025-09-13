@@ -22,15 +22,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaswanth-Kumar-2007&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth-Kumar-2007&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hasinx09&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinx09&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaswanth-Kumar-2007&theme=highcontrast"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasinx09&theme=highcontrast"/>
 </p>
 
 
